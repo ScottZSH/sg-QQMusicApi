@@ -41,5 +41,9 @@
     "docsify": "^4",
     "jest": "^28.1.2",
     "prettier": "^2.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottZSH/sg-QQMusicApi"
   }
 }
